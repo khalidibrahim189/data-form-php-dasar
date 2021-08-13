@@ -85,7 +85,7 @@ $total_grade = $_POST['tgrade'];
                 </td>
             </tr>
             <tr>
-                <td>Nilai UAS</td>
+                <td>Nilai Uas</td>
                 <td>:</td>
                 <td>
                     <input type="text" name="tuas" class="form-control">
